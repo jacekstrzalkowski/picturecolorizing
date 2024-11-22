@@ -1,7 +1,3 @@
-% Kolorwanie obrazów
-% Jacek Strzałkowski
-% 18.11.2024
-
 ## Zdefiniowanie problemu
 
 Problem może być opisany jako klasyfikacja wartości $a$, $b$ dla danego piksela, gdzie możliwymi klasami będą wartości kolorów.
