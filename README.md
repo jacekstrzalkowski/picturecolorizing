@@ -5,7 +5,6 @@
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Repozytorium projektu** | [github.com/jacekstrzalkowski/picturecolorizing](https://github.com/jacekstrzalkowski/picturecolorizing)                   |
 | **Kaggle notebook**       | [kaggle.com/code/jacekstrzakowski/colorizing/](https://www.kaggle.com/code/jacekstrzakowski/colorizing/)                   |
-| **Dataset**               | [kaggle.com/datasets/jacekstrzakowski/autocolorization](https://www.kaggle.com/datasets/jacekstrzakowski/autocolorization) |
 
 Sztuczne kolorowanie obrazów jest rozumiane jako klasyfikacja obrazu w skali szarości $\mathbf{X} \in \mathbb{R}^{H\times W\times 1}$ do obrazu kolorowego $\mathbf{\tilde{X}}$: tablicy 2D $(H,W)$ trójek $(\mathbf{\tilde{X}_{R}}, \mathbf{\tilde{X}_{G}}, \mathbf{\tilde{X}_{B})}$, $\mathbf{\tilde{X}} \in \mathbb{R}^{H\times W\times 3}$.
 
